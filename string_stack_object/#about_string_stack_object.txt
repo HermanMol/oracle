@@ -1,0 +1,20 @@
+About   : String Stack Object
+Author  : Herman Mol
+Date    : 2021 Oct 05
+Location: https://www.github.com/HermanMol/oracle_scripts.git
+
+An ADT (Advanced data Type) for a fifo stack for max 50 strings of 4000 characters.
+
+/* [HM7A9_20240512_120400] */
+A first upload into GitHub. The "hmxt" things still need to be completed.
+
+
+Additional notes:
+01.	I start each line outputted so I can easily found then in the output:
+    *I: ... = Info
+	*E: ... = Error
+	*W: ... = Warning
+	*D: ... = Debug
+	*T: ... = Test
+	*Q: ... = Question or prompt to enter
+02. ...
